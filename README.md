@@ -2,7 +2,7 @@
 This repository serves as a meta-index of all software projects our group members are working on, ranging from small private ones to large and open-source ones, with emphasis placed on the latter.
 
 **Contents:**
-[**Active Development**](Active-Development)  |  [**Maintained**](Maintained)  |  [**Legacy**](Legacy)  |  [**Other**](Other)  |  [**Alumni Work**](Alumni-Work)
+[**Active Development**](Active-Development)  |  [**Active Contributions**](Active-Contributions)  |  [**Maintained**](Maintained)  |  [**Legacy**](Legacy)  |  [**Other**](Other)  |  [**Alumni Work**](Alumni-Work)
 
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
@@ -60,6 +60,11 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023)
 
+## Active Contributions
+
+- 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen)
+
+- 
 
 
 ## Maintained
