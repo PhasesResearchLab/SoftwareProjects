@@ -53,6 +53,9 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🔴🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released or kept internal.
 
+- 🟠🔬 [**nimplex**](https://github.com/amkrajewski/nimplex)
+
+- 🟠🔬 [**nimcso**](https://github.com/amkrajewski/nimcso)
 
 
 
