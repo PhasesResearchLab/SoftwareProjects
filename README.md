@@ -48,6 +48,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam_RMSADTandoc2023?label=Last%20Commit)](https://github.com/amkrajewski/pqam_RMSADTandoc2023)
   [![PyPI version](https://badge.fury.io/py/pqam_RMSADTandoc2023.svg)](https://pypi.org/project/pqam_RMSADTandoc2023)
 
+- 🤏🟢🔬 [**optimade-python-tools-mpdd**](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd)
+
 
 - 🔴🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released or kept internal.
 
@@ -58,7 +60,7 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk)
 
-
+- 
 
 
 ## Legacy
