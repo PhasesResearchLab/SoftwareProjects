@@ -35,11 +35,6 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute)
 
-- 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy)
-
-- 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo)
-
-
 - 🤏 🟢 ✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s **2021** literature model (in R) which has been optimized for high-throughput and wrapped in Python.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam-dparamhu2021?label=Last%20Commit)](https://github.com/amkrajewski/pqam-dparamhu2021)
@@ -50,7 +45,11 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam_RMSADTandoc2023?label=Last%20Commit)](https://github.com/amkrajewski/pqam_RMSADTandoc2023)
   [![PyPI version](https://badge.fury.io/py/pqam_RMSADTandoc2023.svg)](https://pypi.org/project/pqam_RMSADTandoc2023)
 
+- 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy)
+
 - 🤏 🟢 🔬 [**optimade-python-tools-mpdd**](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd)
+
+- 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo)
 
 
 - 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released or kept internal.
@@ -72,7 +71,9 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 ## Legacy
 
--
+- 🟢 ✅ [**nanograin**](https://github.com/PhasesResearchLab/nanograin)
+
+- 
 
 
 ## Other
