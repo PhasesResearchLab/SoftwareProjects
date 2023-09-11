@@ -57,6 +57,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟠🔬 [**nimcso**](https://github.com/amkrajewski/nimcso)
 
+- 🟠🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023)
+
 
 
 ## Maintained
