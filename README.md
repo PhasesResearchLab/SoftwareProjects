@@ -13,6 +13,8 @@ This repository serves as a meta-index of all software projects our group member
 
 _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
+### Open 🟢
+
 - 🟢 ✅ [**pycalphad**](https://github.com/pycalphad/pycalphad) - is a free and open-source Python library for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria within the CALPHAD method. It provides routines for reading Thermo-Calc TDB files and for solving the multi-component, multi-phase Gibbs energy minimization problem.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pycalphad/pycalphad?label=Last%20Commit)](https://github.com/pycalphad/pycalphad)
@@ -51,14 +53,17 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo)
 
-
-- 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released or kept internal.
+### Staging 🟠
 
 - 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex)
 
 - 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso)
 
 - 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023)
+
+### Internal 🔴
+
+- 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released or kept internal.
 
 ## Active Contributions
 
