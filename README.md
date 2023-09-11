@@ -2,10 +2,7 @@
 This repository serves as a meta-index of all software projects our group members are working on, ranging from small private ones to large and open-source ones, with emphasis placed on the latter.
 
 **Contents:**
-- [**Active Development**](Active-Development)
-- [**Maintained**](Maintained)
-- [**Legacy**](Legacy)
-- [**Alumni Work**](Alumni-Work)
+[**Active Development**](Active-Development)  |  [**Maintained**](Maintained)  |  [**Legacy**](Legacy)  |  [**Other**](Other)  |  [**Alumni Work**](Alumni-Work)
 
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
@@ -13,7 +10,7 @@ This repository serves as a meta-index of all software projects our group member
 
 ## Active Development
 
-- 🟢 ✅ [pySIPFENN](https://github.com/PhasesResearchLab/pySIPFENN) - py(**S**tructure-**I**nformed **P**rediction of **F**ormation **E**nergy using **N**eural **N**etworks) allowing easy prediction of formation energy out-of-the-box (🟢✅) and using small-dataset ML through transfer learning-based adjustment of models to new materials (🟠🔬) and properties (🔴🔬).
+- 🟢 ✅ [**pySIPFENN**](https://github.com/PhasesResearchLab/pySIPFENN) - py(**S**tructure-**I**nformed **P**rediction of **F**ormation **E**nergy using **N**eural **N**etworks) allowing easy prediction of formation energy out-of-the-box (🟢✅) and using small-dataset ML through transfer learning-based adjustment of models to new materials (🟠🔬) and properties (🔴🔬).
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/PhasesResearchLab/pySIPFENN)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pysipfenn.readthedocs.io/en/latest/)
@@ -32,6 +29,11 @@ This repository serves as a meta-index of all software projects our group member
 
 
 ## Legacy
+
+-
+
+
+## Other
 
 -
 
