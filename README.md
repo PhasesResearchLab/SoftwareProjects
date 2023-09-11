@@ -7,6 +7,7 @@ This repository serves as a meta-index of all software projects our group member
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
 - ✅ User-Ready / 🔬 Research-Ready / 🏗 Under Construction and Experimental
+- 🤏 Small Ones
 
 ## Active Development
 
@@ -28,7 +29,7 @@ This repository serves as a meta-index of all software projects our group member
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
 
 
--
+- 
 
 
 
