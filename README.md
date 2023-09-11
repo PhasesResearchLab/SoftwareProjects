@@ -75,6 +75,11 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟢 ✅ [**prlworkflows**](https://github.com/PhasesResearchLab/prlworkflows)
 
+- 🟢 ✅ [**popparsing**](https://github.com/PhasesResearchLab/popparsing)
+
+- 
+
+
 
 ## Other
 
