@@ -33,6 +33,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
   [![PyPI version](https://badge.fury.io/py/pysipfenn.svg)](https://pypi.org/project/pysipfenn)
 
+- 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute)
+
 - 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy)
 
 
