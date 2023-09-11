@@ -33,6 +33,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
   [![PyPI version](https://badge.fury.io/py/pysipfenn.svg)](https://pypi.org/project/pysipfenn)
 
+- 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy)
+
 
 - 🤏🟢✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s **2021** literature model (in R) which has been optimized for high-throughput and wrapped in Python.
 
