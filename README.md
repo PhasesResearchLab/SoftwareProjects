@@ -16,20 +16,29 @@ This repository serves as a meta-index of all software projects our group member
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pycalphad/pycalphad?label=Last%20Commit)](https://github.com/pycalphad/pycalphad)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pycalphad.org/docs/latest/)
   [![codecov](https://codecov.io/gh/pycalphad/pycalphad/branch/develop/graph/badge.svg?token=Fu7FJZeJu0)](https://codecov.io/gh/pycalphad/pycalphad)
+  [![PyPI version](https://badge.fury.io/py/pycalphad.svg)](https://pypi.org/project/pycalphad)
 
 - 🟢 ✅ [**ESPEI**](https://github.com/PhasesResearchLab/ESPEI) - **E**xtensible **S**elf-optimizing **P**hase **E**quilibria **I**nfrastructure, is a tool for creating CALPHAD databases and evaluating the uncertanity of CALPHAD models. The purpose of ESPEI is to be both a user tool for fitting state-of-the-art CALPHAD-type models and to be a research platform for developing methods for fitting and uncertainty quantification.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ESPEI?label=Last%20Commit)](https://github.com/PhasesResearchLab/ESPEI)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://espei.org/en/latest/)
+  [![PyPI version](https://badge.fury.io/py/espei.svg)](https://pypi.org/project/espei)
 
 - 🟢 ✅ [**pySIPFENN**](https://github.com/PhasesResearchLab/pySIPFENN) - py(**S**tructure-**I**nformed **P**rediction of **F**ormation **E**nergy using **N**eural **N**etworks) allows for easy prediction of formation energy out-of-the-box (🟢✅) and using small-dataset ML through transfer learning-based adjustment of models to new materials (🟠) and properties (🔴).
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/PhasesResearchLab/pySIPFENN)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pysipfenn.readthedocs.io/en/latest/)
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
+  [![PyPI version](https://badge.fury.io/py/pysipfenn.svg)](https://pypi.org/project/pysipfenn)
 
 
-- 
+- 🤏🟢✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s 2021 literature model (in R) which has been optimized for high-throughput and wrapped in Python.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam-dparamhu2021?label=Last%20Commit)](https://github.com/amkrajewski/pqam-dparamhu2021)
+  [![PyPI version](https://badge.fury.io/py/pqam-dparamhu2021.svg)](https://pypi.org/project/pqam-dparamhu2021)
+
+
+- 🔬🔴 ULTERA
 
 
 
