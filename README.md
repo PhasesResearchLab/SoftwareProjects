@@ -94,8 +94,12 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 ## Alumni Work
 
--
+- 🟢 ✅ [**kawin**](https://github.com/materialsgenomefoundation/kawin) - Python implementation of the Kampmann-Wagner Numerical (KWN) model to predict precipitate nucleation and growth behavior. This package couples with pycalphad to perform thermodynamic and kinetic calculations. [**See the Docs**](https://kawin.org/)
 
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/materialsgenomefoundation/kawin?label=Last%20Commit)](https://github.com/materialsgenomefoundation/kawin)
+  [![PyPI version](https://badge.fury.io/py/kawin.svg)](https://pypi.org/project/kawin)
+
+- 
 
 ## Contributions
 
