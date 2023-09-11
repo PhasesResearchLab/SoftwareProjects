@@ -6,7 +6,7 @@ This repository serves as a meta-index of all software projects our group member
 
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
-- ✅ User-Ready / 🔬 Research-Ready / 🏗 Under Construction and Experimental
+- ✅ User-Ready / 🔬 Research-Ready / 🏗 Under Construction and Experimental / 💤 Not-Supported
 - 🤏 Small Ones
 
 ## Active Development
@@ -76,11 +76,11 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 ## Legacy
 
-- 🟢 ✅ [**nanograin**](https://github.com/PhasesResearchLab/nanograin)
+- 🟢 💤 [**nanograin**](https://github.com/PhasesResearchLab/nanograin)
 
-- 🟢 ✅ [**prlworkflows**](https://github.com/PhasesResearchLab/prlworkflows)
+- 🟢 💤 [**prlworkflows**](https://github.com/PhasesResearchLab/prlworkflows)
 
-- 🟢 ✅ [**popparsing**](https://github.com/PhasesResearchLab/popparsing)
+- 🟢 💤 [**popparsing**](https://github.com/PhasesResearchLab/popparsing)
 
 - 
 
