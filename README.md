@@ -16,6 +16,11 @@ This repository serves as a meta-index of all software projects our group member
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pycalphad.org/docs/latest/)
   [![codecov](https://codecov.io/gh/pycalphad/pycalphad/branch/develop/graph/badge.svg?token=Fu7FJZeJu0)](https://codecov.io/gh/pycalphad/pycalphad)
 
+- 🟢 ✅ [**ESPEI**](https://github.com/PhasesResearchLab/ESPEI) - **E**xtensible **S**elf-optimizing **P**hase **E**quilibria **I**nfrastructure, is a tool for creating CALPHAD databases and evaluating the uncertanity of CALPHAD models. The purpose of ESPEI is to be both a user tool for fitting state-of-the-art CALPHAD-type models and to be a research platform for developing methods for fitting and uncertainty quantification.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ESPEI?label=Last%20Commit)](https://github.com/PhasesResearchLab/ESPEI)
+  [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://espei.org/en/latest/)
+
 - 🟢 ✅ [**pySIPFENN**](https://github.com/PhasesResearchLab/pySIPFENN) - py(**S**tructure-**I**nformed **P**rediction of **F**ormation **E**nergy using **N**eural **N**etworks) allows for easy prediction of formation energy out-of-the-box (🟢✅) and using small-dataset ML through transfer learning-based adjustment of models to new materials (🟠) and properties (🔴).
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/PhasesResearchLab/pySIPFENN)
