@@ -44,7 +44,13 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
   [![PyPI version](https://badge.fury.io/py/pysipfenn.svg)](https://pypi.org/project/pysipfenn)
 
+
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute)
+- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - Uses equilibrium and Scheil simulations to allow material design with properties.
+
+  <!-- [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
+  [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://github.com/HUISUN24/feasibility_map)
+  [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://github.com/HUISUN24/feasibility_map) -->
 
 - 🤏 🟢 ✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s **2021** literature model (in R) which has been optimized for high-throughput and wrapped in Python.
 
