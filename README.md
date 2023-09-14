@@ -86,6 +86,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
 
+### 🏗 Under Construction and Experimental
+- 🏗 PyZentropy
 
 ## Active Contributions
 
