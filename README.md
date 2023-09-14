@@ -2,7 +2,7 @@
 This repository serves as a meta-index of all software projects our group members are working on, from small private to large and open-source ones, emphasizing the latter.
 
 **Contents:**
-[**Active Development**](Active-Development)  |  [**Active Contributions**](Active-Contributions)  |  [**Maintained**](Maintained)  |  [**Legacy**](Legacy)  |  [**Other**](Other)  |  [**Alumni Work**](Alumni-Work)
+[**Active Development**](#Active-Development)  |  [**Active Contributions**](#Active-Contributions)  |  [**Maintained**](#Maintained)  |  [**Legacy**](#Legacy)  |  [**Other**](#Other)  |  [**Alumni Work**](#Alumni-Work)
 
 
 **Active Members:**
