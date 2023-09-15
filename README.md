@@ -49,6 +49,8 @@ This repository serves as a meta-index of all software projects our group member
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute) - A template data-repository with growing number of embedded automations for alloy dataset handling, including data validation and abnormality detection. For now, hardcoded for ULTERA [(ultera.org)](https://ultera.org) contributions, but will soon be generalized.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ULTERA-contribute?label=Last%20Commit)](https://github.com/PhasesResearchLab/ULTERA-contribute)
+  ![GitHub forks](https://img.shields.io/github/forks/PhasesResearchLab/ULTERA-contribute)
+
 
 - 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
@@ -97,11 +99,16 @@ This repository serves as a meta-index of all software projects our group member
 - 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023) - Transfer-learnig based prediction of intrinsic ductility of refractory alloys.
 
 - 🟠 🏗 [**Automation of thermodynamic modelling package**] The package aims to develop an automated workflow for CALPHAD-based thermodynamic modeling using four Python based open-source tools: PyCalphad for equilibrium thermodynamic calculations, ESPEI for automation of CALPHAD modeling, DFTTK for density functional theory (DFT) based first-principles calculations, and PySIPFENN for machine learning predictions of thermodynamic properties.
+
 ### Internal 🔴
 
-- 🔴 ✅ **crystALL**
+- 🔴 ✅ **crystALL** - a set of tools to leverage speed of new SIPFENN featurizers and millions of structures in MPDD for prediction of **cryst**al structure applicable to **ALL** chemistries. Demonstrated, e.g., in: 
 
-- 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released or kept internal.
+  [![](https://img.shields.io/badge/DOI-10.1016%2Fj.actamat.2021.117448-blue)](https://doi.org/10.1016/j.actamat.2021.117448)
+  [![](https://img.shields.io/badge/DOI-10.1038%2Fs41598--021--03578--0-blue)](https://doi.org/10.1038/s41598-021-03578-0)
+  
+
+- 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released (e.g., PyQAlloy 🟢) or kept internal.
 
 - 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
 
