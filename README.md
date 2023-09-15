@@ -47,11 +47,6 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute)
 
-- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
-
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HUISUN24/feasibility_map?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
-  [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
-
 - 🤏 🟢 ✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s **2021** literature model (in R) which has been optimized for high-throughput and wrapped in Python.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam-dparamhu2021?label=Last%20Commit)](https://github.com/amkrajewski/pqam-dparamhu2021)
@@ -62,6 +57,11 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam_RMSADTandoc2023?label=Last%20Commit)](https://github.com/amkrajewski/pqam_RMSADTandoc2023)
   [![PyPI version](https://badge.fury.io/py/pqam_RMSADTandoc2023.svg)](https://pypi.org/project/pqam_RMSADTandoc2023)
 
+- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HUISUN24/feasibility_map?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
+  [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
+
 - 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy)
 
 - 🤏 🟢 🔬 [**optimade-python-tools-mpdd**](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd)
@@ -70,13 +70,13 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 ### Staging 🟠
 
+- 🟠/🟢 ✅ **MPDD** ([**server**](https://github.com/PhasesResearchLab/MPDD-server) | [**tools**](https://github.com/PhasesResearchLab/MPDD-OPTIMADE)) - **M**aterial-**P**roperty-**D**escriptor **D**atabase is an atomistic data processing infrastructure allowing decentralized featurization (calculation of descriptors) and rapid machine learning model deployment on millions of DFT-relaxed configurations. Data is openly served through [**OPTIMADE**](https://github.com/Materials-Consortia/OPTIMADE) API at [mpddoptimade.phaseslab.com](http://mpddoptimade.phaseslab.com/) (🟢), but the high-throughput API and source code for server and client are kept internal for now (🟠). 
+
 - 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex)
 
 - 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso)
 
 - 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023)
-
-- 🟠/🟢 ✅ **MPDD** ([**server**](https://github.com/PhasesResearchLab/MPDD-server) | [**tools**](https://github.com/PhasesResearchLab/MPDD-OPTIMADE)) - **M**aterial-**P**roperty-**D**escriptor **D**atabase is an atomistic data processing infrastructure allowing decentralized featurization (calculation of descriptors) and rapid machine learning model deployment on millions of DFT-relaxed configurations. Data is openly served through [**OPTIMADE**](https://github.com/Materials-Consortia/OPTIMADE) API at [mpddoptimade.phaseslab.com](http://mpddoptimade.phaseslab.com/) (🟢), but the high-throughput API and source code for server and client are kept internal for now (🟠). 
 
 - 🟠 🏗 [**Automation of thermodynamic modelling package**] The package aims to develop an automated workflow for CALPHAD-based thermodynamic modeling using four Python based open-source tools: PyCalphad for equilibrium thermodynamic calculations, ESPEI for automation of CALPHAD modeling, DFTTK for density functional theory (DFT) based first-principles calculations, and PySIPFENN for machine learning predictions of thermodynamic properties.
 ### Internal 🔴
