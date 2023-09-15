@@ -25,14 +25,14 @@ This repository serves as a meta-index of all software projects our group member
 
 ### Open 🟢
 
-- 🟢 ✅ [**pycalphad**](https://github.com/pycalphad/pycalphad) - (@richardotis now at [NASA JPL](https://www.jpl.nasa.gov)) - is a free and open-source Python library for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria within the CALPHAD method. It provides routines for reading Thermo-Calc TDB files and for solving the multi-component, multi-phase Gibbs energy minimization problem.
+- 🟢 ✅ [**pycalphad**](https://github.com/pycalphad/pycalphad) - ([@richardotis](https://github.com/richardotis) now at [NASA JPL](https://www.jpl.nasa.gov)) - is a free and open-source Python library for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria within the CALPHAD method. It provides routines for reading Thermo-Calc TDB files and for solving the multi-component, multi-phase Gibbs energy minimization problem.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pycalphad/pycalphad?label=Last%20Commit)](https://github.com/pycalphad/pycalphad)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pycalphad.org/docs/latest/)
   [![codecov](https://codecov.io/gh/pycalphad/pycalphad/branch/develop/graph/badge.svg?token=Fu7FJZeJu0)](https://codecov.io/gh/pycalphad/pycalphad)
   [![PyPI version](https://badge.fury.io/py/pycalphad.svg)](https://pypi.org/project/pycalphad)
 
-- 🟢 ✅ [**ESPEI**](https://github.com/PhasesResearchLab/ESPEI) - (@bocklund now at [LLNL](https://www.llnl.gov/)) - **E**xtensible **S**elf-optimizing **P**hase **E**quilibria **I**nfrastructure, is a tool for creating CALPHAD databases and evaluating the uncertanity of CALPHAD models. The purpose of ESPEI is to be both a user tool for fitting state-of-the-art CALPHAD-type models and to be a research platform for developing methods for fitting and uncertainty quantification.
+- 🟢 ✅ [**ESPEI**](https://github.com/PhasesResearchLab/ESPEI) - ([@bocklund](https://github.com/bocklund) now at [LLNL](https://www.llnl.gov/)) - **E**xtensible **S**elf-optimizing **P**hase **E**quilibria **I**nfrastructure, is a tool for creating CALPHAD databases and evaluating the uncertanity of CALPHAD models. The purpose of ESPEI is to be both a user tool for fitting state-of-the-art CALPHAD-type models and to be a research platform for developing methods for fitting and uncertainty quantification.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ESPEI?label=Last%20Commit)](https://github.com/PhasesResearchLab/ESPEI)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://espei.org/en/latest/)
