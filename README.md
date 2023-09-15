@@ -86,8 +86,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 - 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
 
-### 🏗 Under Construction and Experimental
-- 🏗 PyZentropy
+- 🔴 🏗 **PyZentropy** - Python toolset to implement the Zentropy approach ([doi.org/10.1007/s11669-022-00942-z](https://doi.org/10.1007/s11669-022-00942-z)) described in brief in [this news article](https://www.psu.edu/news/materials-research-institute/story/zentropy-and-art-creating-new-ferroelectric-materials/)
+  
 
 ## Active Contributions
 
