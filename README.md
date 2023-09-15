@@ -46,7 +46,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute)
-- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - Uses equilibrium and Scheil simulations to allow material design with properties.
+- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - To avoid the formation of undesired phases, an open-source software named the “feasibility map” has been developed based on the CALPHAD-based approach, aiming at designing optimal composition pathway to join dissimilar materials. In the feasibility map, equilibrium thermodynamic simulations are used to predict equilibrium phases at a given range of temperatures and compositions, while the Scheil simulations by assuming no diffusion in the solid and infinite mixing in the liquid are employed to predict non-equilibrium phases formed rapid cooling. By combining these two simulations, the feasibility map can predict the formation of both equilibrium and non-equilibrium phases and therefore provide a comprehensive understanding of the phase formation process during manufacturing processes. ![image](https://github.com/PhasesResearchLab/SoftwareProjects/assets/56174917/b71a62a6-5c99-4acd-b195-547afd88840f)
+
 
   <!-- [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://github.com/HUISUN24/feasibility_map)
