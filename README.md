@@ -64,7 +64,13 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HUISUN24/feasibility_map?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
   [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
 
-- 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy)
+- 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy) - **P**ython toolset for **Q**uality of **Alloy**s data is aimed at curating large alloy datasets, and in particular error prone ones like HEA/MPEA/CCA ones, through multi-scope detection of a number of abnormal patterns prompting re-verification.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/PhasesResearchLab/pyqalloy)
+  [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pyqalloy.readthedocs.io/en/latest/)
+  [![codecov](https://codecov.io/gh/PhasesResearchLab/pyqalloy/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pyqalloy)
+  [![PyPI version](https://badge.fury.io/py/pyqalloy.svg)](https://pypi.org/project/pyqalloy)
+
 
 - 🤏 🟢 🔬 [**optimade-python-tools-mpdd**](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd)
 
