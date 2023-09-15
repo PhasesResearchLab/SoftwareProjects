@@ -62,9 +62,17 @@ This repository serves as a meta-index of all software projects our group member
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pyqalloy/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pyqalloy)
   [![PyPI version](https://badge.fury.io/py/pyqalloy.svg)](https://pypi.org/project/pyqalloy)
 
-- 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo)
+- 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo) - (codeveloped with [Reinhart Group](https://sites.psu.edu/reinhartgroup/people/)) - A demonstrator workflow for (1) training surrogate models for alloy design and (2) generating novel **h**igh **e**ntropy **a**lloys design with condditional **G**enerative **A**dversarial **N**etworks. You can run it in the cloud and download your trained models.
 
-- 🤏 🟢 🔬 [**optimade-python-tools-mpdd**](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd)
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/dovahkiin0022/cGAN_demo?label=Last%20Commit)](https://github.com/dovahkiin0022/cGAN_demo)
+  Stable:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dovahkiin0022/cGAN_demo/master?filepath=cGAN_demo.ipynb)
+  Development:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amkrajewski/cGAN_demo/master?filepath=cGAN_demo.ipynb)
+
+- 🤏 🟢 🔬 [**optimade-python-tools-mpdd**](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd) - fork of [**Materials-Consortia/optimade-python-tools**](https://github.com/Materials-Consortia/optimade-python-tools) by [@ml-evs](https://github.com/ml-evs); tuned to the needs of MPDD and, more generally, other very large memory IO limited materials databases.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/optimade-python-tools-mpdd?label=Last%20Commit)](https://github.com/PhasesResearchLab/optimade-python-tools-mpdd)
+  [![Static Badge](https://img.shields.io/badge/OPTIMADE_Endpoint-MPDD-purple)](http://mpddoptimade.phaseslab.com/)
+
 
 - 🤏 🟢 ✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s **2021** literature model (in R) which has been optimized for high-throughput and wrapped in Python.
 
@@ -82,11 +90,11 @@ This repository serves as a meta-index of all software projects our group member
 
 - 🟠/🟢 ✅ **MPDD** ([**server**](https://github.com/PhasesResearchLab/MPDD-server) | [**tools**](https://github.com/PhasesResearchLab/MPDD-OPTIMADE)) - **M**aterial-**P**roperty-**D**escriptor **D**atabase is an atomistic data processing infrastructure allowing decentralized featurization (calculation of descriptors) and rapid machine learning model deployment on millions of DFT-relaxed configurations. Data is openly served through [**OPTIMADE**](https://github.com/Materials-Consortia/OPTIMADE) API at [mpddoptimade.phaseslab.com](http://mpddoptimade.phaseslab.com/) (🟢), but the high-throughput API and source code for server and client are kept internal for now (🟠). 
 
-- 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex)
+- 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex) - **NIM** sim**PLEX**  A small scientific library for providing uniform density random/grid sampling on N-dimensional simplex spaces.
 
-- 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso)
+- 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization.
 
-- 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023)
+- 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023) - Transfer-learnig based prediction of intrinsic ductility of refractory alloys.
 
 - 🟠 🏗 [**Automation of thermodynamic modelling package**] The package aims to develop an automated workflow for CALPHAD-based thermodynamic modeling using four Python based open-source tools: PyCalphad for equilibrium thermodynamic calculations, ESPEI for automation of CALPHAD modeling, DFTTK for density functional theory (DFT) based first-principles calculations, and PySIPFENN for machine learning predictions of thermodynamic properties.
 ### Internal 🔴
