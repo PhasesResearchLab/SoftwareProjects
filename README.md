@@ -94,16 +94,17 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 ## Active Contributions
 
-- 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen)
-
+- 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen): 
+  - 2023: 1 enhancement and 1 bug fix, both to _pymatgen.**core**_ 
+  - 2017: 1 enhancement to _pymatgen.**analysis**_ and 1 bug fix to _pymatgen.**io**_ 
 - 
 
 
 ## Maintained
 
 - 🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The goal of DFTTK is to make high-throughput first-principles calculations as simple as possible.
-- 🟢 ✅ [**scheil**](https://github.com/pycalphad/scheil) - A Scheil-Gulliver simulation tool using pycalphad.
 
+- 🟢 ✅ [**scheil**](https://github.com/pycalphad/scheil) - A Scheil-Gulliver simulation tool using pycalphad.
 
 - 
 
