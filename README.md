@@ -99,8 +99,8 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 ## Maintained
 
-- 🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk)
-- 🟢 ✅ [**scheil**](https://github.com/pycalphad/scheil)
+- 🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The goal of DFTTK is to make high-throughput first-principles calculations as simple as possible.
+- 🟢 ✅ [**scheil**](https://github.com/pycalphad/scheil) - A Scheil-Gulliver simulation tool using pycalphad.
 
 
 - 
