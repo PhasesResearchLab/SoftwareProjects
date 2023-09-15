@@ -46,9 +46,11 @@ _Ordered open-to-internal, ready-to-experimental, and large-to-small._
 
 
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute)
-- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - To avoid the formation of undesired phases, an open-source software named the “feasibility map” has been developed based on the CALPHAD-based approach, aiming at designing optimal composition pathway to join dissimilar materials. The feasibility map can predict the formation of both equilibrium and non-equilibrium phases and therefore provide a comprehensive understanding of the phase formation process during manufacturing processes. 
 
+- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes though prediction of of both equilibrium and non-equilibrium phases.
 
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HUISUN24/feasibility_map?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
+  [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
 
 - 🤏 🟢 ✅ [**pqam-dparamhu2021**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **D** **Param**eter prediction based on Yong-Jie **Hu**'s **2021** literature model (in R) which has been optimized for high-throughput and wrapped in Python.
 
