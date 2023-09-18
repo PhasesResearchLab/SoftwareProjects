@@ -100,6 +100,8 @@ This repository serves as a meta-index of all software projects our group member
 
 - 🟠 🏗 [**Automation of thermodynamic modelling package**] The package aims to develop an automated workflow for CALPHAD-based thermodynamic modeling using four Python based open-source tools: PyCalphad for equilibrium thermodynamic calculations, ESPEI for automation of CALPHAD modeling, DFTTK for density functional theory (DFT) based first-principles calculations, and PySIPFENN for machine learning predictions of thermodynamic properties.
 
+- 🟠 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
+Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 ### Internal 🔴
 
 - 🔴 ✅ **crystALL** - a set of tools to leverage speed of new SIPFENN featurizers and millions of structures in MPDD for prediction of **cryst**al structure applicable to **ALL** chemistries. Demonstrated, e.g., in: 
