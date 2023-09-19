@@ -5,3 +5,17 @@ theme: just-the-docs
 url: https://phasesresearchlab.github.io/SoftwareProjects/
 
 favicon_ico: "/assets/PRL_logo.ico"
+
+search_enabled: true
+heading_anchors: true
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
