@@ -1,5 +1,6 @@
 name: Get PDF&HTML
 on:
+  workflow_dispatch:
   push:
     paths:
       - README.md
