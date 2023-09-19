@@ -1,8 +1,7 @@
-title: Phases Research Lab Software Projects
+title: SoftwareProjects
 description: Phases Research Lab Software Projects
 theme: just-the-docs
 
 url: https://phasesresearchlab.github.io/SoftwareProjects/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+favicon_ico: "/assets/PRL_logo.ico"
