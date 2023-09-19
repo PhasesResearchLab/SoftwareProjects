@@ -6,6 +6,8 @@ url: https://phasesresearchlab.github.io/SoftwareProjects/
 
 favicon_ico: "/assets/PRL_logo.ico"
 
+color_scheme: wider
+
 search_enabled: true
 heading_anchors: true
 
