@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Get PDF&HTML
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Markdown to PDF and HTML
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: README.md
-          output_dir: renders
+          output_dir: .
           build_html: true
           build_pdf: true
           table_of_contents: true
@@ -27,6 +29,6 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: html
-          path: renders/README.html
+          path: README.html
         
             
