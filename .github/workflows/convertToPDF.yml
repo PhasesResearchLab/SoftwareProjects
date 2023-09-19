@@ -19,15 +19,11 @@ jobs:
           build_html: true
           build_pdf: true
           table_of_contents: true
-      - name: Upload PDF
-        uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v3
         with:
-          name: pdf
-          path: README.pdf
-      - name: Upload HTML
-        uses: actions/upload-artifact@v1
-        with:
-          name: html
-          path: README.html
+          name: renders
+          path: |
+            README.pdf
+            README.html
         
             
