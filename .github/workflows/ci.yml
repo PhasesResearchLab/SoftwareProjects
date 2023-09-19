@@ -2,8 +2,9 @@ name: Jekyll CI
 
 on:
   push:
-    branches: ["main"]
-  pull_request:
+    paths:
+      - README.md
+      - .github/**
 
 jobs:
   # Build job
