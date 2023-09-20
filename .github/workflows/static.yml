@@ -7,6 +7,7 @@ on:
       - README.md
       - .github/**
       - _config.yml
+      - _sass/color_schemes/wider.scss
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
