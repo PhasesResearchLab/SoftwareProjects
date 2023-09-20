@@ -1,15 +1,8 @@
 # Phases Research Lab Software Projects
 This repository serves as an index of all software projects [Phases Research Lab](https://phaseslab.org) group members are working on, from small and private ones to large and open-source ones, emphasizing the latter.
 
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
+**Contents:**
+[**Active Development**](#active-development) ([Open](#open-🟢) | [Staging](#staging-🟠) | [Internal](#internal-🔴))  &nbsp;|&nbsp;  [**Active Contributions**](#active-contributions)  &nbsp;|&nbsp;  [**Maintained**](#maintained)  &nbsp;|&nbsp;  [**Legacy**](#legacy)  &nbsp;|&nbsp;  [**Other**](#other)  &nbsp;|&nbsp;  [**Alumni Work**](#alumni-work)
 
 **Active Group Members** (ordered by GitHub activity):   
 [Adam M. Krajewski <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amkrajewski) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2266-0099),&nbsp;&nbsp;
@@ -114,6 +107,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 
 - 🟠 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
 Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
+
 ### Internal 🔴
 
 - 🔴 ✅ **crystALL** - a set of tools to leverage speed of new SIPFENN featurizers and millions of structures in MPDD for prediction of **cryst**al structure applicable to **ALL** chemistries. Demonstrated, e.g., in: 
