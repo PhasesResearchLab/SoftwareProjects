@@ -21,7 +21,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
 - ✅ User-Ready / 🔬 Research-Ready / 🏗 Under Construction and Experimental / 💤 Not-Supported
-- 🤏 Small Ones
+- 🤏 Small Codes or Modifications
 
 ## Active Development
 
