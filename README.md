@@ -1,8 +1,14 @@
 # Phases Research Lab Software Projects
 This repository serves as an index of all software projects [Phases Research Lab](https://phaseslab.org) group members are working on, from small and private ones to large and open-source ones, emphasizing the latter.
 
-**Contents:**
-[**Active Development**](#active-development)  |  [**Active Contributions**](#active-contributions)  |  [**Maintained**](#maintained)  |  [**Legacy**](#legacy)  |  [**Other**](#other)  |  [**Alumni Work**](#alumni-work)
+<details open markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 
 **Active Group Members** (ordered by GitHub activity):   
