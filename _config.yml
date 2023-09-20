@@ -21,8 +21,20 @@ search:
   rel_url: true
   button: true
 
+nav_external_links:
+  - title: Group Homepage
+    url: https://phaseslab.org
+    hide_icon: false
+  - title: Publications List
+    url: https://phaseslab.com/publications
+    hide_icon: false
+  - title: Group News
+    url: https://phaseslab.com/news
+    hide_icon: false
+  
+
 aux_links:
-  Repository: "https://github.com/PhasesResearchLab/SoftwareProjects"
+  Edit on GitHub: "https://github.com/PhasesResearchLab/SoftwareProjects"
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
