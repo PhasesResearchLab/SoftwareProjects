@@ -31,6 +31,9 @@ nav_external_links:
   - title: Group News
     url: https://phaseslab.com/news
     hide_icon: false
+  - title: Materials Genome Foundation
+    url: https://materialsgenomefoundation.org/
+    hide_icon: false
   
 
 aux_links:
