@@ -28,4 +28,4 @@ jobs:
           inputFiles: './README.md'
           outputFiles: 'translations/DE/*.md translations/FR/*.md translations/CH/*.md translations/PL/*.md translations/IT/*.md translations/JA/*.md translations/ES/*.md'
           languages: 'German French Mandarin Polish Italian Japanese Spanish'
-          prompt: 'Act as an expert computer scientist who is a native speaker of {targetLanguage} and has good background in materials science. Please translate the given Engligh technical description of research activities into {targetLanguage} and output it in Markdown format. If you translate headers, make sure to adjust internal Markdown hyperlinks.'
+          prompt: 'Act as an expert computational scientist with materials science PhD who is also a native speaker of {targetLanguage}. Please carefully translate the given Engligh technical description of research activities into {targetLanguage} making sure technical language is retained. Output it in Markdown format. Do not modify the number of headers and when you translate them, make sure to adjust all internal Markdown hyperlinks.'
