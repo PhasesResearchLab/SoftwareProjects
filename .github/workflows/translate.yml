@@ -26,6 +26,6 @@ jobs:
           model: "gpt-3.5-turbo"
           apikey: ${{ secrets.OPENAI_API_KEY }}
           inputFiles: './README.md'
-          outputFiles: 'DE/*.md FR/*.md CH/*.md PL/*.md JA/*.md ES/*.md'
-          languages: 'German French Mandarin Polish Japanese Spanish'
+          outputFiles: 'translations/DE/*.md translations/FR/*.md translations/CH/*.md translations/PL/*.md translations/IT/*.md translations/JA/*.md translations/ES/*.md'
+          languages: 'German French Mandarin Polish Italian Japanese Spanish'
           prompt: 'Act as an expert computer scientist who is a native speaker of {targetLanguage} and has good background in materials science. Please translate the given Engligh technical description of research activities into {targetLanguage} and output it in Markdown format. If you translate headers, make sure to adjust internal Markdown hyperlinks.'
