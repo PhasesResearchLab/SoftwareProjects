@@ -1,14 +1,14 @@
 name: GPT Translate per Commit
  
 on:
-    push:
-      paths:
-        - README.md
-        - .github/**
-        - _config.yml
-        - _sass/color_schemes/wider.scss
-    # Allows you to run this workflow manually from the Actions tab
-    workflow_dispatch:
+  push:
+    paths:
+      - README.md
+      - .github/**
+      - _config.yml
+      - _sass/color_schemes/wider.scss
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   gpt_translate:
@@ -16,7 +16,7 @@ jobs:
  
     steps:
       - name: Checkout repository with two latest commits
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2
  
