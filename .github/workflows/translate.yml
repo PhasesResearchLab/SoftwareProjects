@@ -1,0 +1,31 @@
+name: GPT Translate per Commit
+ 
+on:
+  push:
+    paths:
+      - README.md
+      - .github/**
+      - _config.yml
+      - _sass/color_schemes/wider.scss
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  gpt_translate:
+    runs-on: ubuntu-latest
+ 
+    steps:
+      - name: Checkout repository with two latest commits
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+ 
+      - name: Run GPT Translate
+        uses: 3ru/gpt-translate@master
+        with:
+          model: "gpt-3.5-turbo"
+          apikey: ${{ secrets.OPENAI_API_KEY }}
+          inputFiles: './README.md'
+          outputFiles: 'translations/DE/*.md translations/FR/*.md translations/CH/*.md translations/PL/*.md translations/IT/*.md translations/JA/*.md translations/ES/*.md'
+          languages: 'German French Mandarin Polish Italian Japanese Spanish'
+          prompt: 'Act as an expert computational scientist with materials science PhD who is also a native speaker of {targetLanguage}. Please carefully translate the given Engligh technical description of research activities into {targetLanguage} making sure technical language is retained. Output it in Markdown format. Do not modify the number of headers and when you translate them, make sure to adjust all internal Markdown hyperlinks.'
