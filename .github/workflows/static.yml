@@ -8,6 +8,7 @@ on:
       - .github/**
       - _config.yml
       - _sass/color_schemes/wider.scss
+      - Gemfile
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
