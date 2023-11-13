@@ -97,7 +97,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 
 - 🟠/🟢 ✅ **MPDD** ([**server**](https://github.com/PhasesResearchLab/MPDD-server) & [**tools**](https://github.com/PhasesResearchLab/MPDD-OPTIMADE)) - **M**aterial-**P**roperty-**D**escriptor **D**atabase is an atomistic data processing infrastructure allowing decentralized featurization (calculation of descriptors) and rapid machine learning model deployment on millions of DFT-relaxed configurations. Data is openly served through [**OPTIMADE**](https://github.com/Materials-Consortia/OPTIMADE) API at [mpddoptimade.phaseslab.com](http://mpddoptimade.phaseslab.com/) (🟢), but the high-throughput API and source code for server and client are kept internal for now (🟠). 
 
-- 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex) - **NIM** sim**PLEX**  A small scientific library for providing uniform density random/grid sampling on N-dimensional simplex spaces.
+- 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex) - **NIM** sim**PLEX**  A small scientific library for providing procedural uniform density random/grid sampling in arbitrary N-dimensional simplex spaces (incl. compositional spaces), as well as graph representations for traversal/path finding problems.
 
 - 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization.
 
