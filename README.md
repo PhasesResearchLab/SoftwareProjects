@@ -56,6 +56,12 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ULTERA-contribute?label=Last%20Commit)](https://github.com/PhasesResearchLab/ULTERA-contribute)
   ![GitHub forks](https://img.shields.io/github/forks/PhasesResearchLab/ULTERA-contribute)
 
+- 🟢 ✅ [**nimplex**](https://github.com/amkrajewski/nimplex) - **NIM** sim**PLEX** is a concise high-performance scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, traversal graphs, and more in compositional (simplex) spaces, where traditional methods designed for euclidean spaces fail or otherwise become impractical. We use it primarily for designing Functionally Graded Materials (FGM) but it target applications also include a wide range disciplines including financial modeling.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/nimplex?label=Last%20Commit)](https://github.com/amkrajewski/nimplex)
+  [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimplex%2F)](https://nimplex.phaseslab.org)
+  [![Arxiv](https://img.shields.io/badge/arXiv-2402.03528-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2402.03528)
+  
 
 - 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
@@ -96,8 +102,6 @@ This repository serves as an index of all software projects [Phases Research Lab
 ### Staging 🟠
 
 - 🟠/🟢 ✅ **MPDD** ([**server**](https://github.com/PhasesResearchLab/MPDD-server) & [**tools**](https://github.com/PhasesResearchLab/MPDD-OPTIMADE)) - **M**aterial-**P**roperty-**D**escriptor **D**atabase is an atomistic data processing infrastructure allowing decentralized featurization (calculation of descriptors) and rapid machine learning model deployment on millions of DFT-relaxed configurations. Data is openly served through [**OPTIMADE**](https://github.com/Materials-Consortia/OPTIMADE) API at [mpddoptimade.phaseslab.com](http://mpddoptimade.phaseslab.com/) (🟢), but the high-throughput API and source code for server and client are kept internal for now (🟠). 
-
-- 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex) - **NIM** sim**PLEX**  A small scientific library for providing procedural uniform density random/grid sampling in arbitrary N-dimensional simplex spaces (incl. compositional spaces), as well as graph representations for traversal/path finding problems.
 
 - 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization.
 
