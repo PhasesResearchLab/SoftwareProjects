@@ -131,9 +131,10 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 
 ## Active Contributions
 
-- 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen): 
-  - 2023: 1 enhancement and 1 bug fix, both to _pymatgen.**core**_ 
-  - 2017: 1 enhancement to _pymatgen.**analysis**_ and 1 bug fix to _pymatgen.**io**_ 
+- 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen):
+  - 2024: 1 bug fix to _pymatgen.**ext**_ by @rdamaral
+  - 2023: 1 enhancement and 1 bug fix, both to _pymatgen.**core**_ by @amkrajewski
+  - 2017: 1 enhancement to _pymatgen.**analysis**_ and 1 bug fix to _pymatgen.**io**_ by @bocklund
 - 
 
 
