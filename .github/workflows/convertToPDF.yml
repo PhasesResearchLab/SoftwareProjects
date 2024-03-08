@@ -12,7 +12,7 @@ jobs:
     name: Get PDF&HTML
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Markdown to PDF and HTML
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
@@ -21,7 +21,7 @@ jobs:
           build_html: true
           build_pdf: true
           table_of_contents: true
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: renders
           path: renders
