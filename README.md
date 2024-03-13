@@ -61,7 +61,12 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/nimplex?label=Last%20Commit)](https://github.com/amkrajewski/nimplex)
   [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimplex%2F)](https://nimplex.phaseslab.org)
   [![Arxiv](https://img.shields.io/badge/arXiv-2402.03528-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2402.03528)
-  
+
+- 🟢 ✅ [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization is a high-performance tool leveraging metaprogramming to implement several methods for selecting components (data dimensions) in compositional datasets, as to optimize the data availability and density for applications such as machine learning.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/nimcso?label=Last%20Commit)](https://github.com/amkrajewski/nimcso)
+  [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimcso%2F)](https://nimcso.phaseslab.org)
+  [![Arxiv](https://img.shields.io/badge/arXiv-2403.02340-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2403.02340)
 
 - 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
@@ -109,8 +114,6 @@ This repository serves as an index of all software projects [Phases Research Lab
 
   [![](https://img.shields.io/badge/DOI-10.1016%2Fj.actamat.2021.117448-blue)](https://doi.org/10.1016/j.actamat.2021.117448)
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs41598--021--03578--0-blue)](https://doi.org/10.1038/s41598-021-03578-0)
-
-- 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization.
 
 - 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023) - Transfer-learnig based prediction of intrinsic ductility of refractory alloys.
 
