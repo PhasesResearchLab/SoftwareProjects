@@ -68,9 +68,9 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimcso%2F)](https://nimcso.phaseslab.org)
   [![Arxiv](https://img.shields.io/badge/arXiv-2403.02340-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2403.02340)
 
-- 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
+- 🟢 🔬 [**MaterialsMap**](https://github.com/PhasesResearchLab/MaterialsMap) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HUISUN24/feasibility_map?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/MaterialsMap?label=Last%20Commit)](https://github.com/PhasesResearchLab/MaterialsMap)
   [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
 
 - 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy) - **P**ython toolset for **Q**uality of **Alloy**s data is aimed at curating large alloy datasets, and in particular error prone ones like HEA/MPEA/CCA ones, through multi-scope detection of a number of abnormal patterns prompting re-verification.
