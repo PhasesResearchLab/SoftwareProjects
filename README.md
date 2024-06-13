@@ -110,7 +110,7 @@ This repository serves as an index of all software projects [Phases Research Lab
   
   [![Arxiv](https://img.shields.io/badge/arXiv-2402.00572-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2402.00572)
 
-- 🟠 ✅ **crystALL** - a set of tools to leverage speed of new SIPFENN featurizers and millions of structures in MPDD for prediction of **cryst**al structure applicable to **ALL** chemistries. Demonstrated, e.g., in: 
+- 🟠 ✅ [**crystALL**](https://github.com/PhasesResearchLab/crystALL) - a set of tools to leverage speed of new SIPFENN featurizers and millions of structures in MPDD for prediction of **cryst**al structure applicable to **ALL** chemistries. Demonstrated, e.g., in: 
 
   [![](https://img.shields.io/badge/DOI-10.1016%2Fj.actamat.2021.117448-blue)](https://doi.org/10.1016/j.actamat.2021.117448)
   [![](https://img.shields.io/badge/DOI-10.1038%2Fs41598--021--03578--0-blue)](https://doi.org/10.1038/s41598-021-03578-0)
