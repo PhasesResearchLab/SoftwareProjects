@@ -68,6 +68,10 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimcso%2F)](https://nimcso.phaseslab.org)
   [![Arxiv](https://img.shields.io/badge/arXiv-2403.02340-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2403.02340)
 
+- 🟢 🔬 [**AMMAP**](https://github.com/PhasesResearchLab/AMMap) - a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases. Utilizes Nimplex to efficiently generate and explore multicomponent multidimensional space.
+
+    [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/AMMAP?label=Last%20Commit)](https://github.com/PhasesResearchLab/AMMAP)
+
 - 🟢 🔬 [**MaterialsMap**](https://github.com/PhasesResearchLab/MaterialsMap) - **Materials map is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/MaterialsMap?label=Last%20Commit)](https://github.com/PhasesResearchLab/MaterialsMap)
@@ -130,8 +134,6 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 - 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
 
 - 🔴 🏗 **PyZentropy** - Python toolset to implement the Zentropy approach ([doi.org/10.1007/s11669-022-00942-z](https://doi.org/10.1007/s11669-022-00942-z)) described in brief in [this news article](https://www.psu.edu/news/materials-research-institute/story/zentropy-and-art-creating-new-ferroelectric-materials/)
-  
-- 🔴 🏗 [**AMMAP**](https://github.com/PhasesResearchLab/AMMap) - a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases. Utilizes Nimplex to efficiently generate and explore multicomponent multidimensional space.
 - 
 ## Active Contributions
 
