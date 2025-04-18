@@ -8,7 +8,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 [**Dr. Adam M. Krajewski** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amkrajewski) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2266-0099)&nbsp; | &nbsp;
 [**Luke A. Myers** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/lukeamyers) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0003-0823-0871)&nbsp; | &nbsp;
 [**Ricardo Amaral** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ricardonpa) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1070-9964)&nbsp; | &nbsp;
-[**Dr. Nigel Hew**<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/nhew1994) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1374-4589)
+[**Dr. Nigel Hew**<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/nhew1994) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1374-4589)&nbsp; | &nbsp;
 [**Alexander Richter** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amr8004) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1253-1071)&nbsp; | &nbsp;
 [**Shuang Lin** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ShuangLin212) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0001-4154-4819)&nbsp; | &nbsp;
 [**Li-Cheng Hsiao (Leon)** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/Leon-526) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0006-6510-3002)&nbsp; | &nbsp;
@@ -132,7 +132,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 - 🟠 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
 Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 
-- 🟠/🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The **D**ensity **F**unctional **T**heory **T**ool**K**it is a Python package for automating VASP jobs and storing relevant results on MongoDB. The VASP workflows are based on [Custodian](https://github.com/materialsproject/custodian), and [PyMongo](https://github.com/mongodb/mongo-python-driver) is used to store the results on MongoDB. The current **DFTTK** is a major revision of the previous [**DFTTK-2021**](https://github.com/PhasesResearchLab/dfttk-2021), focusing on updates to its core dependencies and the quasiharmonic scheme. 
+- 🟠/🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The **D**ensity **F**unctional **T**heory **T**ool**K**it is a Python package for automating VASP jobs and storing relevant results on MongoDB. The VASP workflows are based on [Custodian](https://github.com/materialsproject/custodian), and [PyMongo](https://github.com/mongodb/mongo-python-driver) is used to store the results on MongoDB. The current [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) is a major revision of the previous [**DFTTK-2021**](https://github.com/PhasesResearchLab/dfttk-2021), focusing on updates to its core dependencies and the quasiharmonic scheme. 
 
 
   
@@ -143,21 +143,18 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 - 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
 
 - 🔴 🏗 **PyZentropy** - Python toolset to implement the Zentropy approach ([doi.org/10.1007/s11669-022-00942-z](https://doi.org/10.1007/s11669-022-00942-z)) described in brief in [this news article](https://www.psu.edu/news/materials-research-institute/story/zentropy-and-art-creating-new-ferroelectric-materials/)
-- 
+
 ## Active Contributions
 
 - 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen):
   - 2024: 1 bug fix to _pymatgen.**ext**_ by @rdamaral
   - 2023: 1 enhancement and 1 bug fix, both to _pymatgen.**core**_ by @amkrajewski
   - 2017: 1 enhancement to _pymatgen.**analysis**_ and 1 bug fix to _pymatgen.**io**_ by @bocklund
-- 
 
 
 ## Maintained
 
 - 🟢 ✅ [**scheil**](https://github.com/pycalphad/scheil) - A Scheil-Gulliver simulation tool using pycalphad.
-
-- 
 
 
 ## Legacy
@@ -183,7 +180,6 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/materialsgenomefoundation/kawin?label=Last%20Commit)](https://github.com/materialsgenomefoundation/kawin)
   [![PyPI version](https://badge.fury.io/py/kawin.svg)](https://pypi.org/project/kawin)
 
-- 
 
 ## Contributions
 
