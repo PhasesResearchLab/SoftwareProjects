@@ -10,15 +10,15 @@ This repository serves as an index of all software projects [Phases Research Lab
 [**Ricardo Amaral** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ricardonpa) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1070-9964)&nbsp; | &nbsp;
 [**Dr. Nigel Hew**<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/nhew1994) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1374-4589)
 [**Alexander Richter** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amr8004) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1253-1071)&nbsp; | &nbsp;
-[**Rushi Gong** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/RushiGong) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-0543-581X)&nbsp; | &nbsp;
 [**Shuang Lin** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ShuangLin212) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0001-4154-4819)&nbsp; | &nbsp;
 [**Li-Cheng Hsiao (Leon)** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/Leon-526) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0006-6510-3002)&nbsp; | &nbsp;
 [**Prof. Zi-Kui Liu** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/zikuiliu) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3346-3696)&nbsp; | &nbsp;
 [**Prof. ShunLi Shang** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/shunlishang) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6524-8897)&nbsp; | &nbsp;
 
 **Recent Alumni:**
-[**Hui Sun** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/HUISUN24) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/<0009-0000-3667-2165>)&nbsp; | &nbsp;
-[**John Shimanek** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/shimanek) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2775-8466)&nbsp; | &nbsp;
+[**Dr. Rushi Gong** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/RushiGong) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-0543-581X)&nbsp; | &nbsp;
+[**Dr. Hui Sun** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/HUISUN24) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/<0009-0000-3667-2165>)&nbsp; | &nbsp;
+[**Dr. John Shimanek** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/shimanek) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2775-8466)&nbsp; | &nbsp;
 
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
@@ -132,6 +132,9 @@ This repository serves as an index of all software projects [Phases Research Lab
 - 🟠 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
 Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 
+- 🟠/🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The **D**ensity **F**unctional **T**heory **T**ool**K**it is a Python package for automating VASP jobs and storing relevant results on MongoDB. The VASP workflows are based on [Custodian](https://github.com/materialsproject/custodian), and [PyMongo](https://github.com/mongodb/mongo-python-driver) is used to store the results on MongoDB. The current **DFTTK** is a major revision of the previous [**DFTTK-2021**](https://github.com/PhasesResearchLab/dfttk-2021), focusing on updates to its core dependencies and the quasiharmonic scheme. 
+
+
   
 ### Internal 🔴
 
@@ -152,8 +155,6 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 
 ## Maintained
 
-- 🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The goal of DFTTK is to make high-throughput first-principles calculations as simple as possible.
-
 - 🟢 ✅ [**scheil**](https://github.com/pycalphad/scheil) - A Scheil-Gulliver simulation tool using pycalphad.
 
 - 
@@ -167,13 +168,11 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 
 - 🟢 💤 [**popparsing**](https://github.com/PhasesResearchLab/popparsing)
 
-- 
+- 🟢 💤 [**DFTTK-2021**](https://github.com/PhasesResearchLab/dfttk-2021)
 
 
 
 ## Other
-
--
 
 
 
