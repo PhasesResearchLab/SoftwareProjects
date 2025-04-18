@@ -73,7 +73,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 - 🟢 🔬 [**AMMAP**](https://github.com/PhasesResearchLab/AMMap) - a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases. Utilizes Nimplex to efficiently generate and explore multicomponent multidimensional space.
 
     [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/AMMAP?label=Last%20Commit)](https://github.com/PhasesResearchLab/AMMAP)
-
+  
 - 🟢 🔬 [**MaterialsMap**](https://github.com/PhasesResearchLab/MaterialsMap) - **Materials map is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/MaterialsMap?label=Last%20Commit)](https://github.com/PhasesResearchLab/MaterialsMap)
@@ -85,6 +85,10 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pyqalloy.readthedocs.io/en/latest/)
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pyqalloy/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pyqalloy)
   [![PyPI version](https://badge.fury.io/py/pyqalloy.svg)](https://pypi.org/project/pyqalloy)
+
+- 🟢 🏗 [**MPDD-X / Mat-X**](https://mat-x.org) - **MPDD-eXchange** is a development platform for our larger **MATerials-eXchange** under **mat-x.org** domain bridging several project done by our group and collaborators. MPDD-X allows users to submit atomic structure files by [opening a GitHub issue](https://github.com/amkrajewski/MPDD-contribute/issues/new?assignees=&labels=contrib&projects=&template=contribution-template.md&title=%5BIN%5D) quickly triggering a series of automations which (1) analyze the submitted materials, (2) pass them through a set of ML models, and (3) process them into a git-tracked contribution into MPDD, which generates a unique *mat-x.org* identifier one can cite as a source of ML data and metadata.
+
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/MPDD-X?label=Last%20Commit)](https://github.com/amkrajewski/MPDD-X)
 
 - 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo) - (codeveloped with [Reinhart Group](https://sites.psu.edu/reinhartgroup/people/)) - A demonstrator workflow for (1) training surrogate models for alloy design and (2) generating novel **h**igh **e**ntropy **a**lloys design with condditional **G**enerative **A**dversarial **N**etworks. You can run it in the cloud and download your trained models.
 
