@@ -112,7 +112,8 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam_RMSADTandoc2023?label=Last%20Commit)](https://github.com/amkrajewski/pqam_RMSADTandoc2023)
   [![PyPI version](https://badge.fury.io/py/pqam_RMSADTandoc2023.svg)](https://pypi.org/project/pqam_RMSADTandoc2023)
 
-
+- 🟢 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
+Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 
 ### Staging 🟠
 
@@ -128,9 +129,6 @@ This repository serves as an index of all software projects [Phases Research Lab
 - 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023) - Transfer-learnig based prediction of intrinsic ductility of refractory alloys.
 
 - 🟠 🏗 [**Automation of thermodynamic modelling package**] The package aims to develop an automated workflow for CALPHAD-based thermodynamic modeling using four Python based open-source tools: PyCalphad for equilibrium thermodynamic calculations, ESPEI for automation of CALPHAD modeling, DFTTK for density functional theory (DFT) based first-principles calculations, and PySIPFENN for machine learning predictions of thermodynamic properties.
-
-- 🟠 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
-Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 
 - 🟠/🟢 ✅ [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) - The **D**ensity **F**unctional **T**heory **T**ool**K**it is a Python package for automating VASP jobs and storing relevant results on MongoDB. The VASP workflows are based on [Custodian](https://github.com/materialsproject/custodian), and [PyMongo](https://github.com/mongodb/mongo-python-driver) is used to store the results on MongoDB. The current [**DFTTK**](https://github.com/PhasesResearchLab/dfttk) is a major revision of the previous [**DFTTK-2021**](https://github.com/PhasesResearchLab/dfttk-2021), focusing on updates to its core dependencies and the quasiharmonic scheme. 
 
