@@ -70,6 +70,7 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/nimcso?label=Last%20Commit)](https://github.com/amkrajewski/nimcso)
   [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimcso%2F)](https://nimcso.phaseslab.org)
   [![Arxiv](https://img.shields.io/badge/arXiv-2403.02340-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2403.02340)
+  [![DOI](https://joss.theoj.org/papers/10.21105/joss.06731/status.svg)](https://doi.org/10.21105/joss.06731)
 
 - 🟢 🔬 [**AMMAP**](https://github.com/PhasesResearchLab/AMMap) - a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases. Utilizes Nimplex to efficiently generate and explore multicomponent multidimensional space.
 
