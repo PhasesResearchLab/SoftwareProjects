@@ -51,6 +51,8 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pysipfenn.readthedocs.io/en/latest/)
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
   [![PyPI version](https://badge.fury.io/py/pysipfenn.svg)](https://pypi.org/project/pysipfenn)
+  [![Arxiv](https://img.shields.io/badge/arXiv-2404.02849-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2404.02849)
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.commatsci.2024.113495-blue)](https://doi.org/10.1016/j.commatsci.2024.113495)
 
 
 - 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute) - A template data-repository with growing number of embedded automations for alloy dataset handling, including data validation and abnormality detection. For now, hardcoded for ULTERA [(ultera.org)](https://ultera.org) contributions, but will soon be generalized.
