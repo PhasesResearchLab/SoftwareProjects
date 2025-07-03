@@ -75,7 +75,8 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![DOI](https://joss.theoj.org/papers/10.21105/joss.06731/status.svg)](https://doi.org/10.21105/joss.06731)
 
 - 🟢 🔬 [**AMMAP**](https://github.com/PhasesResearchLab/AMMap) - a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases. Utilizes Nimplex to efficiently generate and explore multicomponent multidimensional space.
-
+ 
+    [![JPhys Mat](https://img.shields.io/badge/DOI-10.1016%2Fj.commatsci.2024.113495-blue)](https://doi.org/10.1088/2515-7639/ade73e)
     [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/AMMAP?label=Last%20Commit)](https://github.com/PhasesResearchLab/AMMAP)
   
 - 🟢 🔬 [**MaterialsMap**](https://github.com/PhasesResearchLab/MaterialsMap) - **Materials map is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
