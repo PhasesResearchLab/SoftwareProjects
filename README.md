@@ -63,6 +63,7 @@ This repository serves as an index of all software projects [Phases Research Lab
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/nimplex?label=Last%20Commit)](https://github.com/amkrajewski/nimplex)
   [![Static Badge](https://img.shields.io/badge/API-Documentation-e?logo=bookstack&logoColor=white&link=https%3A%2F%2Famkrajewski.github.io%2Fnimplex%2F)](https://nimplex.phaseslab.org)
   [![Arxiv](https://img.shields.io/badge/arXiv-2402.03528-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2402.03528)
+  [![npj Unconventional Computing](https://img.shields.io/badge/npj_Unconventional_Computing-10.1038%2Fs44335--024--00012--2-blue)](https://doi.org/10.1038/s44335-024-00012-2)
 
 - 🟢 ✅ [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization is a high-performance tool leveraging metaprogramming to implement several methods for selecting components (data dimensions) in compositional datasets, as to optimize the data availability and density for applications such as machine learning.
 
