@@ -82,7 +82,9 @@ This repository serves as an index of all software projects [Phases Research Lab
 - 🟢 🔬 [**MaterialsMap**](https://github.com/PhasesResearchLab/MaterialsMap) - **Materials map is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/MaterialsMap?label=Last%20Commit)](https://github.com/PhasesResearchLab/MaterialsMap)
-  [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
+  [![PyPI - Version](https://img.shields.io/pypi/v/materialsmap?label=PyPI&color=green)](https://pypi.org/project/materialsmap)
+  [![Arxiv](https://img.shields.io/badge/arXiv-2403.19084-8F1515?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2403.19084)
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mtla.2024.102153-blue)](https://doi.org/10.1016/j.mtla.2024.102153)
 
 - 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy) - **P**ython toolset for **Q**uality of **Alloy**s data is aimed at curating large alloy datasets, and in particular error prone ones like HEA/MPEA/CCA ones, through multi-scope detection of a number of abnormal patterns prompting re-verification.
 
