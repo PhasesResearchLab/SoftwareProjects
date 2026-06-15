@@ -33,7 +33,7 @@ This repository serves as an index of all software projects [Phases Research Lab
 
 ### Open 🟢
 
-- 🟢 ✅ [**pycalphad**](https://github.com/pycalphad/pycalphad) - ([@richardotis](https://github.com/richardotis) now at [NASA JPL](https://www.jpl.nasa.gov)) - is a free and open-source Python library for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria within the CALPHAD method. It provides routines for reading Thermo-Calc TDB files and for solving the multi-component, multi-phase Gibbs energy minimization problem.
+- 🟢 ✅ [**pycalphad**](https://github.com/pycalphad/pycalphad) - ([@richardotis](https://github.com/richardotis) now at [Proteus Space](https://www.proteus-space.com/)) - is a free and open-source Python library for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria within the CALPHAD method. It provides routines for reading Thermo-Calc TDB files and for solving the multi-component, multi-phase Gibbs energy minimization problem.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pycalphad/pycalphad?label=Last%20Commit)](https://github.com/pycalphad/pycalphad)
   [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pycalphad.org/docs/latest/)
