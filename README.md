@@ -4,22 +4,22 @@ This repository serves as an index of all software projects [Phases Research Lab
 **Contents:**
 [**Active Development**](#active-development) ([Open](#open-) | [Staging](#staging-) | [Internal](#internal-))  &nbsp;|&nbsp;  [**Active Contributions**](#active-contributions)  &nbsp;|&nbsp;  [**Maintained**](#maintained)  &nbsp;|&nbsp;  [**Legacy**](#legacy)  &nbsp;|&nbsp;  [**Other**](#other)  &nbsp;|&nbsp;  [**Alumni Work**](#alumni-work)
 
-**Active Group Members** (ordered by GitHub activity):   
-[**Dr. Adam M. Krajewski** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amkrajewski) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2266-0099)&nbsp; | &nbsp;
+**Active Group Members**:   
 [**Luke A. Myers** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/lukeamyers) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0003-0823-0871)&nbsp; | &nbsp;
 [**Ricardo Amaral** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ricardonpa) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1070-9964)&nbsp; | &nbsp;
 [**Dr. Nigel Hew**<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/nhew1994) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1374-4589)&nbsp; | &nbsp;
 [**Alexander Richter** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amr8004) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1253-1071)&nbsp; | &nbsp;
-[**Shuang Lin** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ShuangLin212) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0001-4154-4819)&nbsp; | &nbsp;
 [**Li-Cheng Hsiao (Leon)** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/Leon-526) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0006-6510-3002)&nbsp; | &nbsp;
 [**Philip Chamberlin** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/pmchamberlin) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0001-7696-6472)&nbsp; | &nbsp;
 [**Prof. Zi-Kui Liu** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/zikuiliu) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3346-3696)&nbsp; | &nbsp;
 [**Prof. ShunLi Shang** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/shunlishang) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6524-8897)&nbsp; | &nbsp;
 
 **Recent Alumni:**
+[**Dr. Shuang Lin** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/ShuangLin212) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0001-4154-4819)&nbsp; | &nbsp;
+[**Dr. Adam M. Krajewski** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/amkrajewski) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2266-0099)&nbsp; | &nbsp;
 [**Dr. Rushi Gong** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/RushiGong) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-0543-581X)&nbsp; | &nbsp;
 [**Dr. Hui Sun** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/HUISUN24) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/<0009-0000-3667-2165>)&nbsp; | &nbsp;
-[**Dr. John Shimanek** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/shimanek) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2775-8466)&nbsp; | &nbsp;
+[**Dr. John Shimanek** <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="16" height="16">](https://github.com/shimanek) [![orcidlogo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2775-8466)&nbsp;
 
 **Legend:**
 - 🟢 Open Source / 🟠 Release Soon / 🔴 Internal or Private
@@ -123,6 +123,8 @@ This repository serves as an index of all software projects [Phases Research Lab
 - 🟢 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
 Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 
+- 🟢 [**pyzentropy**](https://github.com/PhasesResearchLab/pyzentropy) - A simple Python package that implements the recursion property of entropy for first-principles thermodynamic calculations.
+
 ### Staging 🟠
 
 - 🟠/🟢 ✅ **MPDD** ([**server**](https://github.com/PhasesResearchLab/MPDD-server) & [**tools**](https://github.com/PhasesResearchLab/MPDD-OPTIMADE)) - **M**aterial-**P**roperty-**D**escriptor **D**atabase is an atomistic data processing infrastructure allowing decentralized featurization (calculation of descriptors) and rapid machine learning model deployment on millions of DFT-relaxed configurations. Data is openly served through [**OPTIMADE**](https://github.com/Materials-Consortia/OPTIMADE) API at [mpddoptimade.phaseslab.com](http://mpddoptimade.phaseslab.com/), but the high-throughput API and source code for server and client are kept internal for now.
@@ -147,8 +149,6 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 - 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released (e.g., PyQAlloy 🟢) or kept internal.
 
 - 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
-
-- 🔴 🏗 **PyZentropy** - Python toolset to implement the Zentropy approach ([doi.org/10.1007/s11669-022-00942-z](https://doi.org/10.1007/s11669-022-00942-z)) described in brief in [this news article](https://www.psu.edu/news/materials-research-institute/story/zentropy-and-art-creating-new-ferroelectric-materials/)
 
 ## Active Contributions
 
